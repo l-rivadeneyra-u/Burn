@@ -1,0 +1,41 @@
+Burn Beta License
+
+Copyright (c) 2026 Luca Kenji Rivadeneyra-Uriu. All rights reserved.
+
+Burn (the "Software") is source-available, not open source.
+
+1. Permitted use. You may download, build and run the Software for your own
+   personal, non-commercial use, and modify your own copy (for example its
+   config.js) for that use.
+
+2. Not permitted without written permission from the copyright holder:
+   a. selling, sublicensing, renting or otherwise charging for the Software
+      or any part of it;
+   b. redistributing the Software or modified versions of it, in source or
+      binary form, except for sharing a link to the official repository or
+      release page;
+   c. offering the Software or a derivative as a hosted or paid service;
+   d. removing or altering this license or the copyright notice;
+   e. rebranding the Software, or distributing or presenting it or a
+      modified version under another name, logo or author, or claiming
+      it as your own work.
+
+3. Ownership. The copyright holder keeps all rights, title and interest in the
+   Software, including the right to change this license for future versions,
+   and to sell or license the Software commercially. Contributions you send to
+   the copyright holder may be used by the copyright holder under any license,
+   including commercial ones.
+
+4. Beta software. This is a pre-release version. It may change, break or be
+   discontinued at any time.
+
+5. No warranty. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+   EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO MERCHANTABILITY, FITNESS FOR
+   A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT
+   HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE
+   SOFTWARE OR ITS USE.
+
+6. Third-party code. Electron and other dependencies keep their own licenses.
+   Burn is an independent project and is not affiliated with or endorsed by
+   Anthropic.
+
