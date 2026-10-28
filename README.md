@@ -24,7 +24,7 @@ Know your Claude Code burn rate. Burn is a Mac app that reads your local Claude 
 
 ## Install
 
-1. Download the `.zip` from the [latest release](https://github.com/unpaidfunds/Burn/releases/latest).
+1. Download the `.zip` from the [Releases page](https://github.com/unpaidfunds/Burn/releases).
 2. Unzip it and drag `Burn.app` into Applications.
 3. The app is unsigned. Right-click it, choose **Open**, then confirm. Or run once:
 
